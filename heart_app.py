@@ -45,6 +45,8 @@ with st.form("Patient's info"):
         st.write(outcome_dict[outcome[0]])
 
 
+# For the test data, 8 out of 10 predicted correctly
+# Hence an accuracy of 80% is achieved.
 
 
 
