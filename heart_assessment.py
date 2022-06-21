@@ -41,7 +41,7 @@ def cramers(confusionmatrix):
 
 #%% Statics
 
-CSV_PATH = os.path.join(os.getcwd(),'heart.csv')
+CSV_PATH = os.path.join(os.getcwd(),'dataset','heart.csv')
 BEST_PIPE_PATH = os.path.join(os.getcwd(),'best_pipe.pkl')
 BEST_MODEL_PATH = os.path.join(os.getcwd(),'best_model.pkl')
 
