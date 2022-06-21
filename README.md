@@ -13,9 +13,9 @@ recommended to avoid any unwanted incidents.
 
 ## Results
 
-![Accuracy](classification_report.png)
+![Accuracy](static/classification_report.png)
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](static/confusion_matrix.png)
 
 The model scored an accuracy of 78%. The best pipeline for this model is to use 
 MinMaxScaler and Logistic Regression. 
@@ -26,9 +26,9 @@ The model can be further improven if we have more datas.
 An app is created for users to input their information to predict heart attack possibilities
 using the model developed.
 
-![First half](app_ss_1.png)
+![First half](static/app_ss_1.PNG)
 
-![Second half](app_ss_2.png)
+![Second half](static/app_ss_2.PNG)
 
 ## Credits
 
